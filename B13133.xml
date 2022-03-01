@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation for the surveying and marking of iron, and survey of vvoods to bee used in the making thereof.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1637</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B13133</idno>
+            <idno type="STC">STC 9092</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1851.b.3[18]</idno>
+            <idno type="STC">ESTC S123880</idno>
+            <idno type="EEBO-CITATION">99892704</idno>
+            <idno type="PROQUEST">ocm99892704</idno>
+            <idno type="VID">188370</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B13133)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188370)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C10:2[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation for the surveying and marking of iron, and survey of vvoods to bee used in the making thereof.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>3, [1] sheets.   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Barker, printer to the Kings most excellent Majestie: and by the assignes of John Bill,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>1637]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Dated at end: ... Oatlands, the nine and twentieth day of July, in the thirteenth yeere of Our reign.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Arms 24; Steele notation: and ed 2) re- 3) same 4) is, for.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Import quotas --  Law and legislation --  Great Britain --  Early works to 1800.</term>
+               <term>Iron industry and trade --  Law and legislation --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2014-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:188370:1" rendition="simple:additions"/>
+            <head>
+               <figure>
+                  <q xml:lang="frm">DIEV ET MON DROIT</q>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon surmounted by a crown and flanked by the English lion on one side and the Scottish unicorn on the other</figDesc>
+               </figure>
+            </head>
+            <head>¶ By the King.</head>
+            <head type="sub">¶ A Proclamation for the ſurveying and marking of Iron, and ſurvey of Woods to bee uſed in the making thereof.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas Our moſt noble Progenitors, and Predeceſſors, Kings and</hi> Queens of this Realme, duely conſidering the neceſſary and im<g ref="char:EOLhyphen"/>portant uſe of the Woods and Timber of this Kingdome, have ta<g ref="char:EOLhyphen"/>ken into their conſtant care to preſerve the ſame from waſt and deſtru<g ref="char:EOLhyphen"/>ction; And to that end, divers good and wholeſome Lawes and Sta<g ref="char:EOLhyphen"/>tutes haue been made, and divers other Proviſions have been publiſh<g ref="char:EOLhyphen"/>ed in that behalfe: Nevertheleſſe, by a common neglect of the ſaid Lawes, and by an unlawfull liberty, which many of Our Subjects have taken to themſelves, there hath been, and yet continueth, ſuch a ſpoyle of Timber and Woods in this Our King<g ref="char:EOLhyphen"/>dome, by converting the ſame into Coales for the making of Iron, as that it may be feared that within few yeeres, (unleſſe by a ſpeedy courſe it be prevented) there will follow ſuch want of Wood and Timber, as cannot bee ſupplyed by any future providence; Which, together with the frequent tranſportation of Iron and Iron metall, unlawfully without Licenſe in that behalfe, hath already produced a great ſcarcity of Timber, Wood, and Iron, being two of the principall Commodities and Materialls for the ſtrength of this Our Kingdome: For re<g ref="char:EOLhyphen"/>medy of which ſaid miſchiefes of ſo high a conſequence, tending to the publike dammage
+<pb n="2" facs="tcp:188370:2"/>of Our Kingdome and People, and for reſtraint of tranſportation of Iron, and the re<g ref="char:EOLhyphen"/>formation of ſundry ſecret deceipts and abuſes now uſed and practiſed in the making of Iron, and in the vent and ſale thereof in Barres, by intermingling the worſer ſort with the better, and ſo ſelling them promiſcuouſly and deceiptfully together, whereby many times the brittle and worſer ſort of Iron comes to bee imployed for ſhipping, and other uſes for which it is unſerviceable; Wee by Our Letters Patents under Our great Seale of <hi>England,</hi> bearing date the foureteenth day of <hi>October</hi> laſt, Did erect an Office to bee for ever conti<g ref="char:EOLhyphen"/>nued, and did thereby appoint Our welbeloved <hi>John Cupper,</hi> and <hi>Grimbald Pauncefoote</hi> gent. Surveyour or Surveyours of all Iron-workes, Furnaces, and Forges within Our Realme of <hi>England</hi> and Dominion of <hi>Wales,</hi> and of all Woods to bee uſed or imployed thereat, and for the ſurveying and marking of Iron with divers Stamps or Marks, diſtin<g ref="char:EOLhyphen"/>guiſhing the ſeverall kindes thereof, and for prevention of the tranſportation thereof without Licence, and to proſecute Offendors in the premiſes: For the doing whereof, and their la<g ref="char:EOLhyphen"/>bour, care, and charges to bee taken and expended in the execution of the ſaid Office, for the publike good of Our Kingdome and People, Wee by the ſame Letters Patents haue aſſigned unto them a moderate Fee, to bee payd by the Owners of the ſaid Iron, at the time of the ſurveying and marking thereof.</p>
+            <p>And whereas ſince the granting of the ſaid Office, upon Petition and Allegations made againſt it, upon a full and deliberate hearing thereof before Vs and Our Priuy Counſell, It appeared that the ſaid Office, with the Proviſions in the ſaid Letters Patents men<g ref="char:EOLhyphen"/>tioned, was neceſſary and fit to bee put in execution; And for that alſo the reformation of the ſaid abuſes, in the well ordering of the Myne and Oare, and the making of Iron, and the ſurveying, marking, and diſtinguiſhing thereof, (beſides the preſervation of Woods and Timber) will bee of much benefit to the Common-wealth; Wee being minded to e<g ref="char:EOLhyphen"/>ſtabliſh the ſaid Office and execution thereof, Doe therefore hereby ſtraitly charge and Com<g ref="char:EOLhyphen"/>mand, that no perſon or perſons whatſoever, ſhall uſe, or imploy any Woods to bee conver<g ref="char:EOLhyphen"/>ted into Coale for the making of Iron, or ſhall tranſport any Iron, or Iron-metall, con<g ref="char:EOLhyphen"/>trary unto the Lawes and Statutes of this Our Realme, and other Proviſions heretofore made and publiſhed; And that no Iron-maſter, Maker of Iron, Owner, or Farmour of Iron-workes, Furnaces, or Forges, their Clerkes, Servants, or Agents whatſoever, ſhall from henceforth ſell, or put to ſale, any ſorts of Iron; nor any Merchant, Trader, or dealer in Iron, nor any others, ſhall buy, or remove the ſame from the Iron-workes, Furnaces, or Forges, where the ſame is or ſhall bee made and wrought, before the ſame Iron ſhall bee firſt ſurveyed and marked by Our ſaid Officer or Officers, their Deputies or Aſſignes, with the Stamps or Markes appointed in that behalfe, according to Our will and pleaſure in the ſaid Letters Patents declared, (ſo as the ſaid Officers, their Deputy or Depu<g ref="char:EOLhyphen"/>ties, or Aſſignes, upon payment of the ſaid Fee or Fees, by the ſaid Letters Patents allowed unto them for their paines, to be had and made at the time of the ſurveying and marking there<g ref="char:EOLhyphen"/>of,
+<pb n="3" facs="tcp:188370:3"/>be ready once in every eight dayes at the ſaid Iron-works, to ſurvey and mark the ſame Iron) Vpon paine, not onely of the forfeiture of the ſaid Iron, but alſo upon paine of Our high diſpleaſure, and ſuch puniſhment as may be inflicted upon them for their contempts in that behalfe.</p>
+            <p>And We do alſo appoint and authorize Our ſaid Officer or Officers, their Deputies or Aſ<g ref="char:EOLhyphen"/>ſignes, as occaſion ſhall require, to uſe ſome other Markes to be caſt or ſtamped upon the ſaid ſe<g ref="char:EOLhyphen"/>verall Sowes or Pigs and Barres of Iron, whereby the ſeverall Iron works and Owners thereof, and the Counties where the ſame was made and wrought, may be certainly knowne: All, or any of which ſaid Stamps or Marks, We require and Command, that no other per<g ref="char:EOLhyphen"/>ſon or perſons do preſume to counterfeit or falſifie, nor to ſtamp or mark any Iron therewith.</p>
+            <p>And We do ſtraitly charge and Command all and ſingular Iron-Maſters, Owners, and Far<g ref="char:EOLhyphen"/>mours of Iron-works, Furnaces, and Forges whatſoever, within Our Realme of <hi>England</hi> and Dominion of <hi>Wales,</hi> now, and for the time being, and their and every of their Clerks, Ser<g ref="char:EOLhyphen"/>vants, and Agents, that they and every of them reſpectively, do permit and ſuffer the ſaid Of<g ref="char:EOLhyphen"/>ficer or Officers, their Deputies or Aſſignes, at meet and convenient times, to enter into all and every the ſaid Iron-works, Furnaces, and Forges, and all Ware-houſes, Store-houſes, Edifices, and Buildings thereunto belonging, there to ſurvey, view, and mark, as well all the Iron from time to time made and wrought, as to ſurvey, view, and try the Myne Oare and Metall, and the working thereof into Sowes, or Pigs, and Barres of Iron, as afore<g ref="char:EOLhyphen"/>ſaid, and to peruſe, ſee, and take Notes, of all and every the Books and Scores, by them or any of them made and kept, of, and concerning ſuch quantities of Iron, as from time to time ſhall be by them made or ſold: And that the ſaid Iron-Maſters, Owners, and Farmours of Iron-works, Furnaces, and Forges, and their Clerks, Agents, Servants, or Work<g ref="char:EOLhyphen"/>men, be from henceforth aiding and aſſiſting unto the ſaid Officer or Officers, their Deputy or Deputies, or Aſſignes, from time to time, in the due execution of the premiſſes, and of every matter and thing thereunto belonging, as they tender Our Royall Will and Commandment heerein declared, and will anſwer for their contempt or neglect thereof, at their uttermoſt perils.</p>
+            <p>And We do hereby declare Our Royall pleaſure to be, that the ſaid Officer or Officers, their Deputy, or Deputies, or Aſſignes, ſhall, or may, with the aſſiſtance of ſome Conſtable, or other lawfull and knowne Officer, enter into any Houſe, Cellar, Vault, Ware-houſe, Shop, Ship, or Veſſell, or other place whatſoever, as well within Liberties as without; And there to view, ſearch, and finde out all ſuch Iron, as hath been, or ſhall be bought, ſold, or removed from the Works or places where the ſame was made and wrought, before the ſame be firſt ſur<g ref="char:EOLhyphen"/>veyed, viewed, and marked, as aforeſaid: And what Iron, or Iron-Metall ſhall be ſhipped, or attempted to be Tranſported without Our Licence in that behalfe: And in caſe they ſhall finde or diſcover any Iron (except as in the ſaid Letters Patents is excepted) ſo bought, ſold, or removed, before the ſame ſhall be Marked, or any Iron or Iron-Metall ſo ſhipped, to
+<pb facs="tcp:188370:4"/>be Tranſported without Our Licence; Then Our pleaſure and expreſſe Commandment is, That the ſaid Officer or Officers, and every of them, or his, or their Deputies, or Aſſignes, do ſeize, detain, and take the ſame, as forfeited to Vs, Our Heires, and Succeſſours.</p>
+            <p>And We do further hereby declare Our Royall Will and pleaſure to be, That the ſaid Of<g ref="char:EOLhyphen"/>ficers, their Deputies, or Aſſignes, may lawfully and at convenient times, enter into any Woods or Wood-grounds of any Our Subjects, wherein any Woods are or ſhall be Felled, Cut, or Coarded, to be converted into Coales for the making of Iron, or Iron-Metall, and there to ſurvey and view the ſame, whereby it may appeare of what nature and condition the Woods are that ſhall be converted or imployed that way, and that the Tranſgreſſours therein may be proceeded againſt, and duly puniſhed according to Our Lawes: And to theſe Our Roy<g ref="char:EOLhyphen"/>all Commands We ſhall expect and require a due conformity and obedience of all Our Subjects whom it ſhall concerne, under the pain of Our high diſpleaſure, and ſuch puniſhments as by the Lawes and Statutes of the Realme, or otherwiſe, may be inflicted on them for their contempts or neglects herein.</p>
+            <p>And laſtly, We do hereby Will and require all Iuſtices of Peace, Maiors, Sheriffes, Bai<g ref="char:EOLhyphen"/>liffes, Conſtables, Headboroughs, and all other Our Officers and Miniſters whatſoever whom it ſhall concerne, to be aiding and aſſiſting to Our ſaid Officers, their Deputies or Aſ<g ref="char:EOLhyphen"/>ſignes, in the due execution of the premiſſes, as they tender Our ſervice, and will anſwer for the contrary at their perils.</p>
+            <closer>
+               <dateline>Given at Our Court at Oatlands, <date>the nine and twentieth day of July, in the thirteenth yeere of Our Reigne.</date>
+               </dateline>
+               <lb/> 
+               <g ref="char:leaf">❧</g> 
+               <hi>God ſave the King.</hi>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Robert Barker, Printer to the Kings moſt Excellent Majeſtie: And by the Aſsignes of JOHN BILL. 1637.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
